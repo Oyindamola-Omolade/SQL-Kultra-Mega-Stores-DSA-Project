@@ -1,18 +1,18 @@
 # MY-DSA-DATA-ANALYSIS-CAPSTONE-PROJECT-2
-After completing SQL classes at Incubator hub,this is my second portfolio project on SQL Analysis 
+After completing Power BI classes at Incubator hub,this is my second portfolio project on Power BI Analysis 
 
-## PROJECT TOPIC :Kultra Mega Stores Inventory
+## PROJECT TOPIC :Palmora Group HR Analysis
 ### Project Overview 
-KMS specialises in office supplies and furniture.
-This data analysis project aims to analyse sales and shipping patterns from 2009 - 2012.
-By analysing the various parameters in the data received, I seek to gather enough insights to make reasonable decisions which will improve sales, shipping and customer behavior
+Palmora Group is a manufacturing company based in Nigeria
+This data analysis project aims to analyse issues of gender inequality in its 3 regions
+By analysing the various parameters in the data received, I seek to gather enough insights to identify key areas that the company needs to address immediately, find out the reason for the gender inequality news headline and how to prevent further bad news reports on gender inequality in Palmora Group.  
 
 ### Data Sources 
 The primary source used for this analysis is an Excel file 
 
 ### Tools Used 
 - Ms Excel for data entry
-- SQL for data query and anlysis 
+- Power BI for data cleaning and visulaization 
 - Ms Powerpoint for presentation
 
 ### Data Cleaning and Preparation  
@@ -21,10 +21,10 @@ The primary source used for this analysis is an Excel file
 - Data cleaning and formatting
 
 ### Exploratory Data Analysis
-1. Which product has the highest sales ?
-2. top and bottom regions in sales
-3. Better shipping method
-4. Customers that places the most orders
+1. What is the gender distribution in the organization?
+2. Analyse the company's salary structure
+3. Does the company meet the new miniumum wage requirement?
+4. 
 
 ### Data Analysis 
 
